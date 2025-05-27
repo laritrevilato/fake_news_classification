@@ -5,9 +5,10 @@ Trabalho de conclusão de curso apresentado à Faculdade de Computação da Univ
 
 ## 👨‍🏫 Autora
 
-Larissa Alves Trevilato - larissa.trevilato@gmail.com / larissa.alves@ufu.br
-Faculdade de Computação - Universidade Federal de Uberlândia
-Orientador(a): Maria Adriana Vidigal de Lima
+- **Nome:** Larissa Alves Trevilato  
+- **E-mail:** larissa.trevilato@gmail.com / larissa.alves@ufu.br  
+- **Instituição:** Faculdade de Computação – Universidade Federal de Uberlândia  
+- **Orientadora:** Maria Adriana Vidigal de Lima
 
 ## 📄 Sobre o Projeto
 
@@ -20,10 +21,10 @@ Os resultados são apresentados por meio de gráficos de radar e heatmaps, anali
 
 ## 🧪 Bases Utilizadas
 
-Fake.BR - https://github.com/roneysco/Fake.br-Corpus
-FakeRecogna - https://github.com/Gabriel-Lino-Garcia/FakeRecogna
-FakeTrueBR - https://github.com/jpchav98/FakeTrue.Br
-BoatosBR - https://github.com/Felipe-Harrison/boatos-br-corpus
+- **Fake.BR** - https://github.com/roneysco/Fake.br-Corpus
+- **FakeRecogna** - https://github.com/Gabriel-Lino-Garcia/FakeRecogna
+- **FakeTrueBR** - https://github.com/jpchav98/FakeTrue.Br
+- **BoatosBR** - https://github.com/Felipe-Harrison/boatos-br-corpus
 
 ## 📚 Contribuição para Estudos Futuros
 
@@ -33,12 +34,13 @@ Se você usar ou se inspirar neste trabalho, sinta-se à vontade para citar este
 
 ## 📌 Como citar este trabalho
 
-Caso queira citar diretamente, segundo as normas da ABNT: 
+Caso queira citar diretamente, segundo as normas da **ABNT**: 
 
-TREVILATO, Larissa Alves. Análise comparativa de modelos de representação de texto e métodos de aprendizado de máquina na classificação de notícias falsas em português. 2025. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) – Universidade Federal de Uberlândia, Uberlândia, 2025. Orientadora: Maria Adriana Vidigal de Lima. Disponível em: https://repositorio.ufu.br/handle/2025-05-. Acesso em: [coloque a data de acesso aqui].
+```TREVILATO, Larissa Alves. Análise comparativa de modelos de representação de texto e métodos de aprendizado de máquina na classificação de notícias falsas em português. 2025. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) – Universidade Federal de Uberlândia, Uberlândia, 2025. Orientadora: Maria Adriana Vidigal de Lima. Disponível em: https://repositorio.ufu.br/handle/2025-05-. Acesso em: [coloque a data de acesso aqui].```
 
 Caso você esteja usando Latex:
 
+```
 @misc{Trevilato:2025,
   author       = {Larissa Alves Trevilato},
   title        = {Análise Comparativa de Modelos de Representação de Texto e Métodos de Aprendizado de Máquina na Classificação de Notícias Falsas em Português},
@@ -48,6 +50,7 @@ Caso você esteja usando Latex:
   url = {https://repositorio.ufu.br/handle/}
   urldate = {2025-05-}
 }
+```
 
 ## 📬 Contato
 
@@ -70,12 +73,14 @@ A principal biblioteca utilizada para a aplicação dos métodos de aprendizado 
 1. Clone o repositório:
 
 ```git clone https://github.com/laritrevilato/fake_news_classification.git
-   cd fake_news_classification```
+   cd fake_news_classification
+```
 
 2. Crie um ambiente virtual:
 
 ```python -m venv venv
 source venv/bin/activate  # ou venv\Scripts\activate no Windows```
+```
 
 3. Instale as bibliotecas necessárias:
 
