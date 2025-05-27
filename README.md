@@ -14,36 +14,6 @@ Orientador(a): Maria Adriana Vidigal de Lima
 O objetivo deste trabalho é aplicar técnicas de representação textual (BoW, TF-IDF, Word2Vec) combinadas com algoritmos de aprendizado de máquina (SVC, Regressão Logística, Naive Bayes, Random Forest) para a tarefa de detecção de notícias falsas em diferentes corpora. 
 
 O estudo visa comparar o desempenho das abordagens utilizadas e oferecer uma base experimental que possa ser expandida em pesquisas futuras.
-
-## 📁 Estrutura do Repositório
-
-
-
-
-## 🛠️ Ambiente de Desenvolvimento
-
-Todo o desenvolvimento deste trabalho foi realizado em linguagem Python (versão 3.11.12), utilizando o ambiente computacional Google Colab, que oferece infraestrutura de execução em nuvem.
-A principal biblioteca utilizada para a aplicação dos métodos de aprendizado de máquina foi a scikit-learn, em sua versão 1.6.1.
-
-## 🚀 Como Executar Localmente
-
-1. Clone o repositório:
-
-```git clone https://github.com/laritrevilato/fake_news_classification.git
-   cd fake_news_classification```
-
-2. Crie um ambiente virtual:
-
-```python -m venv venv
-source venv/bin/activate  # ou venv\Scripts\activate no Windows```
-
-3. Instale as bibliotecas necessárias:
-
-```pip install -r requirements.txt```
-
-4. Execute os notebooks ou scripts disponíveis em src/.
-```ola```
-
 ## 📊 Resultados
 
 Os resultados são apresentados por meio de gráficos de radar e heatmaps, analisando as métricas de acurácia, precisão, revocação e F1-score para cada combinação de técnica de representação e classificador.
@@ -84,3 +54,33 @@ Caso você esteja usando Latex:
 Caso tenha dúvidas ou sugestões, entre em contato pelo e-mail: [larissa.trevilato@gmail.com] ou abra uma issue neste repositório.
 
 ## ⭐ Se este projeto for útil para você, não esqueça de deixar uma estrela!
+
+## 📁 Estrutura do Repositório
+
+
+
+
+## 🛠️ Ambiente de Desenvolvimento
+
+Todo o desenvolvimento deste trabalho foi realizado em linguagem Python (versão 3.11.12), utilizando o ambiente computacional Google Colab, que oferece infraestrutura de execução em nuvem.
+A principal biblioteca utilizada para a aplicação dos métodos de aprendizado de máquina foi a scikit-learn, em sua versão 1.6.1.
+
+## 🚀 Como Executar Localmente
+
+1. Clone o repositório:
+
+```git clone https://github.com/laritrevilato/fake_news_classification.git
+   cd fake_news_classification```
+
+2. Crie um ambiente virtual:
+
+```python -m venv venv
+source venv/bin/activate  # ou venv\Scripts\activate no Windows```
+
+3. Instale as bibliotecas necessárias:
+
+```pip install -r requirements.txt```
+
+4. Execute os notebooks ou scripts disponíveis em src/.
+```ola```
+
