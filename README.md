@@ -29,8 +29,7 @@ A principal biblioteca utilizada para a aplicação dos métodos de aprendizado 
 
 1. Clone o repositório:
 
-```bash
-   git clone https://github.com/laritrevilato/fake_news_classification.git
+```git clone https://github.com/laritrevilato/fake_news_classification.git
    cd fake_news_classification```
 
 2. Crie um ambiente virtual:
