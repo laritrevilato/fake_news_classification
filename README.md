@@ -31,20 +31,19 @@ A principal biblioteca utilizada para a aplicação dos métodos de aprendizado 
 
 ```bash
    git clone https://github.com/laritrevilato/fake_news_classification.git
-   cd fake_news_classification
+   cd fake_news_classification```
 
 2. Crie um ambiente virtual:
 
-python -m venv venv
-source venv/bin/activate  # ou venv\Scripts\activate no Windows
+```python -m venv venv
+source venv/bin/activate  # ou venv\Scripts\activate no Windows```
 
 3. Instale as bibliotecas necessárias:
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 4. Execute os notebooks ou scripts disponíveis em src/.
-
-
+```ola```
 
 ## 📊 Resultados
 
