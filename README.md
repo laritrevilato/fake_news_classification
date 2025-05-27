@@ -46,24 +46,24 @@ pip install -r requirements.txt
 
 
 
-📊 Resultados
+## 📊 Resultados
 
 Os resultados são apresentados por meio de gráficos de radar e heatmaps, analisando as métricas de acurácia, precisão, revocação e F1-score para cada combinação de técnica de representação e classificador.
 
-🧪 Bases Utilizadas
+## 🧪 Bases Utilizadas
 
 Fake.BR - https://github.com/roneysco/Fake.br-Corpus
 FakeRecogna - https://github.com/Gabriel-Lino-Garcia/FakeRecogna
 FakeTrueBR - https://github.com/jpchav98/FakeTrue.Br
 BoatosBR - https://github.com/Felipe-Harrison/boatos-br-corpus
 
-📚 Contribuição para Estudos Futuros
+## 📚 Contribuição para Estudos Futuros
 
 Este projeto é código aberto e está licenciado sob a MIT License. Ele pode ser usado, modificado e distribuído livremente. Espera-se que este trabalho possa servir como base para pesquisas futuras nas áreas de PLN, aprendizado de máquina e combate à desinformação.
 
 Se você usar ou se inspirar neste trabalho, sinta-se à vontade para citar este repositório ou entrar em contato.
 
- 📌 Como citar este trabalho
+## 📌 Como citar este trabalho
 
 Caso queira citar diretamente, segundo as normas da ABNT: 
 
@@ -81,8 +81,8 @@ Caso você esteja usando Latex:
   urldate = {2025-05-}
 }
 
-📬 Contato
+## 📬 Contato
 
 Caso tenha dúvidas ou sugestões, entre em contato pelo e-mail: [larissa.trevilato@gmail.com] ou abra uma issue neste repositório.
 
-⭐ Se este projeto for útil para você, não esqueça de deixar uma estrela!
+## ⭐ Se este projeto for útil para você, não esqueça de deixar uma estrela!
