@@ -76,7 +76,7 @@ A principal biblioteca utilizada para a aplicação dos métodos de aprendizado 
 
 ```
 git clone https://github.com/laritrevilato/fake_news_classification.git
-cd fake_news_classification/src
+cd fake_news_classification/project_localy
 
 ```
 
@@ -91,12 +91,11 @@ source venv/bin/activate  # ou venv\Scripts\activate no Windows
 3. Instale as bibliotecas necessárias:
 
 ```
-pip install -r requirements.txt
-
+make install
 ```
 
 4. Execute os notebooks ou scripts disponíveis em src/.
 ```
-
+python src/fake_news_classification.py --mode full
 
 ```
