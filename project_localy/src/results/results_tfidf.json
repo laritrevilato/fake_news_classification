@@ -1,0 +1,130 @@
+{
+    "Base 1": {
+        "TFIDF": {
+            "SVC": {
+                "model": "SVC(kernel='linear')",
+                "accuracy": 0.9694444444444444,
+                "precision": 0.9695748819116421,
+                "recall": 0.9694444444444444,
+                "f1_score": 0.969442322383499
+            },
+            "LogisticRegression": {
+                "model": "LogisticRegression(max_iter=500)",
+                "accuracy": 0.9576388888888889,
+                "precision": 0.9583825225723056,
+                "recall": 0.9576388888888889,
+                "f1_score": 0.9576217013169404
+            },
+            "MultinomialNB": {
+                "model": "MultinomialNB()",
+                "accuracy": 0.6173611111111111,
+                "precision": 0.7803699556219154,
+                "recall": 0.6173611111111111,
+                "f1_score": 0.5522850424811209
+            },
+            "RandomForest": {
+                "model": "RandomForestClassifier(n_jobs=-1, random_state=42)",
+                "accuracy": 0.9541666666666667,
+                "precision": 0.9555727554179567,
+                "recall": 0.9541666666666667,
+                "f1_score": 0.954131274131274
+            }
+        }
+    },
+    "Base 2": {
+        "TFIDF": {
+            "SVC": {
+                "model": "SVC(kernel='linear')",
+                "accuracy": 0.9591729913635174,
+                "precision": 0.9591749818111199,
+                "recall": 0.9591729913635174,
+                "f1_score": 0.9591729354361697
+            },
+            "LogisticRegression": {
+                "model": "LogisticRegression(max_iter=500)",
+                "accuracy": 0.9429468725464538,
+                "precision": 0.9429590864998807,
+                "recall": 0.9429468725464538,
+                "f1_score": 0.9429465208481292
+            },
+            "MultinomialNB": {
+                "model": "MultinomialNB()",
+                "accuracy": 0.8222978277937713,
+                "precision": 0.8534174970541551,
+                "recall": 0.8222978277937713,
+                "f1_score": 0.8182893961025172
+            },
+            "RandomForest": {
+                "model": "RandomForestClassifier(n_jobs=-1, random_state=42)",
+                "accuracy": 0.9544621826746925,
+                "precision": 0.9547495303896146,
+                "recall": 0.9544621826746925,
+                "f1_score": 0.9544551451011757
+            }
+        }
+    },
+    "Base 3": {
+        "TFIDF": {
+            "SVC": {
+                "model": "SVC(kernel='linear')",
+                "accuracy": 0.9545955477187569,
+                "precision": 0.95459875437524,
+                "recall": 0.9545955477187569,
+                "f1_score": 0.9545954815454764
+            },
+            "LogisticRegression": {
+                "model": "LogisticRegression(max_iter=500)",
+                "accuracy": 0.9323341415031959,
+                "precision": 0.9323484254542586,
+                "recall": 0.9323341415031959,
+                "f1_score": 0.9323336286894307
+            },
+            "MultinomialNB": {
+                "model": "MultinomialNB()",
+                "accuracy": 0.7930350451840423,
+                "precision": 0.8333506787229439,
+                "recall": 0.7930350451840423,
+                "f1_score": 0.7865720398013827
+            },
+            "RandomForest": {
+                "model": "RandomForestClassifier(n_jobs=-1, random_state=42)",
+                "accuracy": 0.9437954595547718,
+                "precision": 0.9443347563044219,
+                "recall": 0.9437954595547718,
+                "f1_score": 0.9437786295624657
+            }
+        }
+    },
+    "Base 4": {
+        "TFIDF": {
+            "SVC": {
+                "model": "SVC(kernel='linear')",
+                "accuracy": 0.9539269051321928,
+                "precision": 0.9539275227034809,
+                "recall": 0.9539269051321928,
+                "f1_score": 0.9539268894615026
+            },
+            "LogisticRegression": {
+                "model": "LogisticRegression(max_iter=500)",
+                "accuracy": 0.9368195956454122,
+                "precision": 0.9368344535468777,
+                "recall": 0.9368195956454122,
+                "f1_score": 0.936819058407451
+            },
+            "MultinomialNB": {
+                "model": "MultinomialNB()",
+                "accuracy": 0.796461897356143,
+                "precision": 0.8377227038549967,
+                "recall": 0.796461897356143,
+                "f1_score": 0.7900492875265543
+            },
+            "RandomForest": {
+                "model": "RandomForestClassifier(n_jobs=-1, random_state=42)",
+                "accuracy": 0.9370139968895801,
+                "precision": 0.9374372047868412,
+                "recall": 0.9370139968895801,
+                "f1_score": 0.9369987589180087
+            }
+        }
+    }
+}
